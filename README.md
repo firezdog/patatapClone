@@ -1,1 +1,1 @@
-Partial clone of the web-app <a href="https://patatap.com">Patatap</a> made as a project for the <a hrefhttps://www.udemy.com/the-web-developer-bootcamp">Web Developer Bootcamp</a> on Udemy. Uses Howl and Paper.js libraries to draw circles and play sounds on key events.
+Partial clone of the web-app <a href="https://patatap.com">Patatap</a> made as a project for the <a href="https://www.udemy.com/the-web-developer-bootcamp">Web Developer Bootcamp</a> on Udemy. Uses Howl and Paper.js libraries to draw circles and play sounds on key events.
